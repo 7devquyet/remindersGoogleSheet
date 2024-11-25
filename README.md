@@ -55,7 +55,7 @@ Replace placeholders in the script with your specific details:
 
 ### **Sample Notification Message**
 ```
-Thông báo: Customer1 (ChannelInfo1) đã hết hạn ProductA gói Package1
+Notification: Customer1 (ChannelInfo1) has expired for ProductA package Package1
 Additional Info1
 ```
 
